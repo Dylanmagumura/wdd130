@@ -44,9 +44,8 @@ aside img {
     height: auto
 }
 aside h2 {
-    position: relative;
-    top: 4px;
-    left: 6px;
+    position: absolute;
+    left: 107px;
 }
 main img {
     float: right;
